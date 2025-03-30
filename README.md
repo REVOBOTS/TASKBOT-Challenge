@@ -1,5 +1,5 @@
 # END-EFFECT THIS!  
-## STUDENT DESIGN CHALLENGE
+## STUDENT DESIGN CHALLENGE (Open to All Arizona Students)
 
 ### AIVN & REVOBOTS invite you to DESIGN the Future of Work
 

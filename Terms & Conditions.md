@@ -9,7 +9,7 @@ By submitting an entry to the REVOBOTS Student Design Challenge (the “Challeng
 ---
 
 ## 1. Eligibility
-- Open to currently enrolled **college students** (undergraduate or graduate) in **Arizona**.
+- Open to all high school and college students in **Arizona**.
 - Participants may enter individually or as a team.
 - Faculty or mentors may advise teams but should not submit on their behalf.
 - Only one submission per team is permitted.

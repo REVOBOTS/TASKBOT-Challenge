@@ -39,7 +39,7 @@ For files larger than 10MB, we’ll send you a secure upload link after submissi
 ## 🕒 Deadline
 
 Submissions are due by **April 15, 2025, at 11:59 PM MST**.  
-Open to current college students in **Arizona**.
+Open to current high school and college students in **Arizona**.
 
 ---
 
